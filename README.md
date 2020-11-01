@@ -23,7 +23,7 @@ Step 4: start node server
 
     node server.js
     
-_You can access the application under localhost:3000 from your browser_
+_You can access the application under localhost:3003 from your browser_
 
 #### To build a docker image from the application
 
